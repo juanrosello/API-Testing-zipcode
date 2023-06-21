@@ -1,4 +1,4 @@
-API Testing with Python.
+# API Testing with Python.
 
 This is an API Testing project, using Python, Requests, Pytest and Visual Studio Code.
 
@@ -10,10 +10,10 @@ Set Up:
 
 API under test:
 
-_Zippopotam.us
-_Returns location data based on country and zip code.
-_http://api.zippopotam.us/
-_RESTful API
++ Zippopotam.us
++ Returns location data based on country and zip code.
++ http://api.zippopotam.us/
++ RESTful API
 
 Run pytest: In project root execute:
 $ pipenv run pytest API-test-1.py
